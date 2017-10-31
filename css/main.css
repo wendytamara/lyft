@@ -8,7 +8,7 @@
 .container{
   background: url("../assets/images/hero.gif");
   background-repeat: no-repeat;
-  height: 600px;
+  height: 700px;
   width: 100%;
   background-size: 100% 100%;
   color: #fff;
@@ -29,7 +29,7 @@ header ul li{
   margin: 0px 20px;
   font-size: 20px;
   position: relative;
-  left: 40%;
+  left: 55%;
   vertical-align: center;
 }
 
@@ -49,9 +49,10 @@ section{
   background: #fff;
   color: #728099;
   box-sizing: border-box;
-  height: 390px;
-  width: 450px;
+  height: 430px;
+  width: 40%;
   font-weight: 200;
+  float: right;
 }
 
 section h1{
@@ -86,4 +87,184 @@ section h1, h4, div, p {
 .links button, a{
    padding: 15px;
    margin-top: 15px;
+}
+
+section p{
+  font-size: 10px;
+  font-weight: 400;
+}
+
+section p a{
+  color: #FF00BF;
+}
+
+main{
+  box-sizing: border-box;
+  height: 600px;
+  display: inline-block;
+  width: 100%;
+  background:linear-gradient(#76278F , #2B1E66 );
+
+}
+main h1{
+  font-weight: 400;
+  font-size: 30px;
+
+}
+
+.container-characteristics{
+padding: 0;
+box-sizing: border-box;
+width: 30%;
+margin-left: 150px;
+display: inline-block;
+color: #fff;
+
+}
+
+main p{
+  line-height: 1.5;
+  font-weight: 300;
+
+}
+
+main img{
+  width: 40%;
+  margin: 0px 100px;
+  float: right;
+}
+
+main div{
+  padding: 20px;
+}
+
+article, aside{
+  width: 100%;
+  height: 400px;
+
+}
+
+article iframe{
+  float: right;
+  padding: 0;
+  height: 400px;
+  width: 70%;
+}
+
+.amplify-ride{
+  padding: 25px 50px;
+  text-align: left;
+  border: 1px solid black;
+  vertical-align: middle;
+  height: inherit;
+}
+
+aside iframe{
+  height: 400px;
+  width: 70%;
+  float: left;
+}
+
+
+.amplify-ride, iframe{
+  display: inline-block;
+  width: 30%;
+  box-sizing: border-box;
+  vertical-align: top;
+}
+
+.prize-of-the-month{
+  padding: 25px 50px;
+  text-align: left;
+  border: 1px solid black;
+  vertical-align: middle;
+  height: inherit;
+
+}
+
+.prize-of-the-month, iframe{
+  display: inline-block;
+  width: 30%;
+  box-sizing: border-box;
+
+}
+/*
+.section-two{
+  width: 100%;
+  height: 400px;
+}
+
+last-section{
+  padding: 25px 50px;
+  text-align: left;
+  border: 1px solid black;
+  vertical-align: middle;
+  height: inherit;
+  display: inline-block;
+}
+
+.section-two iframe{
+  display: inline-block;
+  width: 30%;
+  box-sizing: border-box;
+  vertical-align: top;
+} */
+
+footer{
+ margin-top: 70px;
+ width: 100%;
+ box-sizing: border-box;
+ background-color: #333447 ;
+ color: #fff;
+}
+
+li{
+padding: 7px;
+list-style: none;
+}
+
+li:hover{
+ color: #FF00BF ;
+ transition: 1s ease;
+}
+
+.lists{
+ display: inline-block;
+ padding-left: 30px;
+}
+
+.logos{
+float: left;
+
+}
+.logo{
+ width: 170px;
+ display: block;
+ padding: 10px;
+ }
+
+.icon{
+ text-align: center;
+ color: #fff;
+ }
+
+.icon a{
+padding: 7px;
+color: #fff;
+font-size: 15px;
+border: 1px solid white;
+border-radius: 50%;
+}
+
+.icon a:hover{
+ color: #FF00BF ;
+ transition: 1s ease;
+}
+p{
+ text-align: center;
+}
+
+hr{
+margin-left: 350px;
+width: 50%;
 }
