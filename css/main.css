@@ -1,3 +1,89 @@
-/*
- * Estilos de tu proyecto
- */
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+  box-sizing: border-box;
+}
+
+.container{
+  background: url("../assets/images/hero.gif");
+  background-repeat: no-repeat;
+  height: 600px;
+  width: 100%;
+  background-size: 100% 100%;
+  color: #fff;
+}
+
+header{
+  padding: 50px 80px;
+
+}
+
+header img{
+  width: 60px;
+}
+
+header ul li{
+  text-decoration: none;
+  display: inline-block;
+  margin: 0px 20px;
+  font-size: 20px;
+  position: relative;
+  left: 40%;
+  vertical-align: center;
+}
+
+header img, ul{
+  display: inline;
+}
+
+.button-log-in{
+  border: 1px solid #fff;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+section{
+  padding:  50px;
+  text-align: left;
+  background: #fff;
+  color: #728099;
+  box-sizing: border-box;
+  height: 390px;
+  width: 450px;
+  font-weight: 200;
+}
+
+section h1{
+  color: #352384;
+  font-size: 40px;
+  font-weight: 600;
+}
+
+section h4{
+  padding-top: 10px;
+  font-weight: 400;
+}
+section h1, h4, div, p {
+  padding: 10px 0;
+}
+.text-box{
+  border-bottom: 1px solid #352384;
+}
+
+.text-box input{
+  border: none;
+  font-weight: 100;
+  font-size: 16px;
+}
+.link-button{
+  padding: 15px;
+  background: #FF00BF;
+  color: #fff;
+  font-size: 16px;
+  border-radius: 10px;
+}
+.links button, a{
+   padding: 15px;
+   margin-top: 15px;
+}
