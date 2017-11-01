@@ -26,6 +26,6 @@ Se reparte el proyecto: **Wendy Tamara**, maquetacion y estilos css de: header, 
 
 Se  procede a realizar la maquetación del sitio web Lyft en html y se elabora los estilos en CSS.
 
-Se sube el trabajo a **github**   y  **gh-pages**  
+Se sube el trabajo a [**github**](https://github.com/wendytamara/lyft/)  y   [**gh-pages**](https://wendytamara.github.io/lyft/)
 
-Puede visualizar el Reto Lyft terminado  [**AQUI.**](https://gist.github.com/ivandevp/1de47ae69a5e139a6622d78c882e1f74)
+Puede visualizar el Reto Lyft terminado  [**AQUI.**](https://wendytamara.github.io/lyft/)
