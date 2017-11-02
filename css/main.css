@@ -213,14 +213,13 @@ aside iframe{
   float: right;
 }
 
-/*FOOTER REALIZADO POR DAFNE MILENA CACERES, SE PROCEDE A COMENTAR YA QUE DESCUADRA  EL TRABAJO REALIZADO*/
-/*
 footer{
- margin-top: 70px;
- width: 100%;
- box-sizing: border-box;
- background-color: #333447 ;
- color: #fff;
+  z-index: 1;
+  margin-top: 70px;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: #333447;
+  color: #fff;
 }
 
 li{
@@ -229,13 +228,13 @@ list-style: none;
 }
 
 li:hover{
- color: #FF00BF ;
- transition: 1s ease;
+  color: #FF00BF;
+  transition: 1s ease;
 }
 
 .lists{
- display: inline-block;
- padding-left: 30px;
+  display: inline-block;
+  padding-left: 30px;
 }
 
 .logos{
@@ -243,15 +242,15 @@ float: left;
 
 }
 .logo{
- width: 170px;
- display: block;
- padding: 10px;
- }
+  width: 170px;
+  display: block;
+  padding: 10px;
+  }
 
 .icon{
- text-align: center;
- color: #fff;
- }
+  text-align: center;
+  color: #fff;
+  }
 
 .icon a{
 padding: 7px;
@@ -262,16 +261,14 @@ border-radius: 50%;
 }
 
 .icon a:hover{
- color: #FF00BF ;
- transition: 1s ease;
+  color: #FF00BF;
+  transition: 1s ease;
 }
 p{
- text-align: center;
+  text-align: center;
 }
 
 hr{
 margin-left: 350px;
 width: 50%;
 }
-
-*/
